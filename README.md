@@ -1,5 +1,5 @@
 # LinkList 
-this class write by c++(*static languge*)
+this class write by c++(*static language*)
 this linklist has one sided, it mean's you can just go a head , you can't return
 we have a table method's hear :
 | name | Description |
